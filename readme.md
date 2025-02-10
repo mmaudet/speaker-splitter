@@ -23,8 +23,8 @@ A Python tool to separate audio files by speaker using diarization data. This to
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mmaudet/audio-speaker-separator.git
-cd audio-speaker-separator
+git clone https://github.com/mmaudet/speaker-splitter.git
+cd speaker-splitter
 ```
 
 2. Create and activate a Conda environment:
